@@ -1,0 +1,6 @@
+{
+  "name": "NIOR Music Player",
+  "description": "Premium offline Android music player with Liquid Glass UI, ExoPlayer Media3 background audio, animated sliding pill navigation, and 5-band equalizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

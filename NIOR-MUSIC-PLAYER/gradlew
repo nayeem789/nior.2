@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "Building NIOR Music Player using Gradle Wrapper..."
+exec gradle "$@"

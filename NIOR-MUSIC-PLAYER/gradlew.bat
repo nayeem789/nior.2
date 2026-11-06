@@ -1,0 +1,3 @@
+@echo off
+echo Building NIOR Music Player using Gradle Wrapper...
+gradle %*
